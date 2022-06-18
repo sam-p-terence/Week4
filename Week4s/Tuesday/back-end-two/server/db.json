@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "The Hitchhikers Guide to the Galaxy",
+    "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/81XSN3hA5gL.jpg"
+  },
+  {
+    "id": 2,
+    "name": "DUNE",
+    "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/81ym3QUd3KL.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Leviathan Wakes",
+    "imageURL" : "https://m.media-amazon.com/images/I/51RE2p8RLML.jpg"
+  }
+]

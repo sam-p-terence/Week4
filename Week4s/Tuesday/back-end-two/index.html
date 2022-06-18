@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Books!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Books!</h1>
+        <button id="fortuneButton">Get a fortune</button>
+    </header>
+    <main>
+
+    <div id="book-images">
+    <form>
+        <input 
+            type='text'
+            id="books"
+            placeholder="Name of the book?"/>
+        <input 
+            type='text'
+            id="img"
+            placeholder='Add a book image URL'/>
+        <button>Add a Book!!</button>
+    </form>
+    </div>
+
+    <section id="books-container"></section>
+
+    </main>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

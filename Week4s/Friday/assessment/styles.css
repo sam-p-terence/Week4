@@ -1,0 +1,88 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1548133650-7e2b96ebe5e6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2781&q=80');
+}
+
+header {
+  height: 80px; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  color: rgb(255, 255, 255);
+}
+
+.btns-container > button {
+  width: 20px;
+}
+
+main {
+  display: flex; 
+  justify-content: center;
+}
+
+.books-card {
+  background-color: rgb(106, 205, 245);
+  width: 300px;
+  margin: 20px; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 12px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+
+button {
+  background-color: #474545;
+  width: 75px;
+  height: 50px;
+  color: rgb(246, 202, 166);
+  border: 15px;
+  margin: 5px;
+}
+
+input[type='text'] {
+  width: 85%;
+  height: 30px;
+  border: none;
+  border-bottom: 2px solid #232323;
+  color: #c54141;
+  background-color: snow;
+}
+
+#books-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: flexs;
+  display: flex;
+  flex-direction: row;
+}
+
+.books-cover-image {
+  width: 300px; 
+  height: 300px;
+  border-top-left-radius: 12px;
+  border-top-right-radius: 12px;
+}
+
+form {
+  width: 350px;
+  height: 350px;
+  background-image: url('https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip');
+  position: flex;
+  display: flex; 
+  flex-direction: column;
+  justify-content: space-evenly; 
+  align-items: center;
+  margin: 30px;
+}
+
+.btns-container {
+  width: 100%; 
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5px;
+}
+

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "address": "The Hitchhikers Guide to the Galaxy",
+    "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/81XSN3hA5gL.jpg"
+  },
+  {
+    "id": 2,
+    "address": "⊃∪∩⪽",
+    "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/81ym3QUd3KL.jpg"
+  },
+  {
+    "id": 3,
+    "address": "Leviathan Wakes",
+    "imageURL" : "https://m.media-amazon.com/images/I/51RE2p8RLML.jpg"
+  },
+  {
+    "id": 4,
+    "address": "Hyperion",
+    "imageURL" : "https://www.giantfreakinrobot.com/wp-content/uploads/2019/11/shrike-900x1380.jpg"
+  },
+  {
+    "id": 5,
+    "address": "Ready Player One",
+    "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/9193hRad9yL.jpg"
+  },
+  {
+    "id": 6,
+    "address": "Halo: Cryptum",
+    "imageURL" : "https://images-na.ssl-images-amazon.com/images/I/719DWKW4M8L.jpg"
+  }
+]
